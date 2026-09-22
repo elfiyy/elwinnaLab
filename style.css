@@ -21,9 +21,7 @@ body {
 }
 
 
-/* =========================
-   BACKGROUND
-========================= */
+
 
 .background-grid {
     position: fixed;
@@ -61,9 +59,7 @@ body {
 }
 
 
-/* =========================
-   NAVBAR
-========================= */
+
 
 .navbar {
     width: min(1150px, calc(100% - 40px));
@@ -116,9 +112,7 @@ body {
         }
 
 
-/* =========================
-   HERO
-========================= */
+
 
 .hero {
     width: min(1150px, calc(100% - 40px));
@@ -222,9 +216,7 @@ body {
         }
 
 
-/* =========================
-   PIXEL WINDOW
-========================= */
+
 
 .pixel-decoration {
     display: flex;
@@ -310,9 +302,7 @@ body {
 }
 
 
-/* =========================
-   SECTIONS
-========================= */
+
 
 section {
     width: min(1150px, calc(100% - 40px));
@@ -345,9 +335,7 @@ section {
     }
 
 
-/* =========================
-   SERVICES
-========================= */
+
 
 .service-grid {
     display: grid;
@@ -393,9 +381,7 @@ section {
 }
 
 
-/* =========================
-   PROJECTS
-========================= */
+
 
 .section-description {
     color: #858493;
@@ -495,7 +481,7 @@ section {
 }
 
 
-/* WEB PREVIEW */
+
 
 .web-preview {
     background: #10121e;
@@ -542,7 +528,6 @@ section {
         }
 
 
-/* GAME PREVIEW */
 
 .game-preview {
     background: radial-gradient( circle, rgba(105,223,255,0.13), transparent 60% );
@@ -584,9 +569,7 @@ section {
 }
 
 
-/* =========================
-   ABOUT
-========================= */
+
 
 .about-box {
     max-width: 800px;
@@ -610,9 +593,7 @@ section {
     }
 
 
-/* =========================
-   CONTACT
-========================= */
+
 
 .contact {
     padding-bottom: 140px;
@@ -681,9 +662,7 @@ section {
     }
 
 
-/* =========================
-   FOOTER
-========================= */
+
 
 footer {
     width: min(1150px, calc(100% - 40px));
@@ -715,9 +694,7 @@ footer {
 }
 
 
-/* =========================
-   MOBILE
-========================= */
+
 
 @media (max-width: 850px) {
 
